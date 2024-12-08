@@ -1,14 +1,11 @@
 # 💫 About Me:
-I’m a Computer Engineering student who loves solving problems and building systems that merge creativity with technology. My current focus is on:<br><br>🎮 Game Development: Exploring the technical side of gameplay using Unreal Engine with C++ and Blueprints.<br>🤖 Robotics & Simulations: Creating virtual environments with tools like ROS and Gazebo to test robotic systems.<br>🐳 Containerization: Learning to streamline development processes with Docker.
-
+I’m a Computer Engineering student who loves solving problems and building systems that merge creativity with technology. My current focus is on:<br><br>🤖 Robotics & Simulations: Creating virtual environments with tools like ROS and Gazebo to test robotic systems.<br>🐳 Containerization: Learning to streamline development processes with Docker.<br>🎮 Game Development: Exploring the technical side of gameplay using Unreal Engine with C++ and Blueprints.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orhun-begen/)
 
-
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ROS](https://img.shields.io/badge/ROS-%23ff7f00.svg?style=for-the-badge&logo=ros&logoColor=white&color=%23006400) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ROS](https://img.shields.io/badge/ROS-%23ff7f00.svg?style=for-the-badge&logo=ros&logoColor=white&color=%23006400) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-%23FF6F00.svg?style=for-the-badge&logo=yo%20yo&logoColor=white)
 
 
 # 📊 GitHub Stats:
